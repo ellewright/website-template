@@ -5,10 +5,10 @@ export default function NavBar() {
             <nav className="flex navbar">
                 <img src='/logo.jpg' alt='logo' />
                 <ul>
-                    <li><Link href="">Home</Link></li>
+                    <li><Link href="/home">Home</Link></li>
                     <li><Link href="/about">About</Link></li>
-                    <li><Link href="">Products</Link></li>
-                    <li><Link href="">Contact</Link></li>
+                    <li><Link href="/products">Products</Link></li>
+                    <li><Link href="/contact">Contact</Link></li>
                 </ul>
             </nav>
         </div>
