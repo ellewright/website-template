@@ -6,7 +6,7 @@ export default function Home() {
             <NavBar />
             <main className="flex flex-col items-center justify-center">
                 <div className="header">
-                    <h1>Paddy's Pub</h1>
+                    <h1>Paddy&apos;s Pub</h1>
                 </div>
             </main>
         </div>
