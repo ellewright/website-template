@@ -9,7 +9,7 @@ export default function About() {
                 </div>
                 <div className="gang-picture">
                     <figure>
-                        <img src="/the-gang.jpg" alt="The Gang" />
+                        <img src='/images/the-gang.jpg' alt="The Gang" />
                         <figcaption>September 12, 2018 - The gang celebrates a successful Escape Room attempt with steaks.</figcaption>
                     </figure>
                 </div>

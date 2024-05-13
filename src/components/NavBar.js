@@ -3,7 +3,7 @@ export default function NavBar() {
     return (
         <div className="navbar-container">
             <nav className="flex navbar">
-                <img src='/logo.jpg' alt='logo' />
+                <img src='/images/logo.jpg' alt='logo' />
                 <ul>
                     <li><Link href="/home">Home</Link></li>
                     <li><Link href="/about">About</Link></li>

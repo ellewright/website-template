@@ -8,6 +8,12 @@ export default function Contact() {
                 <div className="header">
                     <h1>Contact Us</h1>
                 </div>
+                <div className="rude-man-picture">
+                    <figure>
+                        <img src="/images/rude-man.jpg" alt="Rude man who shushes, please call." />
+                        <figcaption>If you are or know the rude, shushing man, please call.</figcaption>
+                    </figure>
+                </div>
             </main>
         </div>
     )

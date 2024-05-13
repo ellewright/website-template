@@ -21,7 +21,7 @@ body {
 }
 
 .gang-picture {
-  @apply w-1/4;
+  @apply w-1/2;
   margin: 0px 10px 10px 10px;
   padding: 10px;
   background-color: #fffbff;
@@ -68,4 +68,30 @@ body {
 
 .navbar img {
   width: 2.5%;
+}
+
+.interior-picture {
+  margin: 0px 10px 10px 10px;
+  padding: 10px;
+  background-color: #fffbff;
+  color: #0f7b47;
+  border-radius: 0.375rem;
+}
+
+.fight-milk-picture {
+  @apply w-1/4;
+  margin: 0px 10px 10px 10px;
+  padding: 10px;
+  background-color: #fffbff;
+  color: #0f7b47;
+  border-radius: 0.375rem;
+}
+
+.rude-man-picture {
+  @apply w-1/2;
+  margin: 0px 10px 10px 10px;
+  padding: 10px;
+  background-color: #fffbff;
+  color: #0f7b47;
+  border-radius: 0.375rem;
 }
