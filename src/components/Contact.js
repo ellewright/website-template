@@ -16,7 +16,7 @@ export default function Contact() {
                 </div>
                 <div className="input-field">
                     <div className="input-header">
-                        <h2>Send us a message; we'll get back to you ASAP.</h2>
+                        <h2>Send us a message; we will get back to you ASAP.</h2>
                     </div>
                     <div className="contact-input flex flex-col items-center">
                         <div className="flex flex-col">
