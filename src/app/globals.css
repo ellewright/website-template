@@ -95,3 +95,34 @@ body {
   color: #0f7b47;
   border-radius: 0.375rem;
 }
+
+.input-field {
+  background-color: #fffbff;
+  width: 75%;
+  border-radius: 0.25rem;
+  padding:10px 5px;
+}
+
+.contact-input div {
+  padding: 5px;
+  border-radius: 0.375rem;
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+.submit-button {
+  margin: 0px 5px 0px 5px;
+  padding: 5px;
+  background-color: #fffbff;
+  border-radius: 0.375rem;
+  border: 1px solid black;
+  width: 50%;
+}
+
+.inquiries {
+  padding: 5px;
+  background-color: #fffbff;
+  border-radius: 0.375rem;
+  border: 1px solid black;
+  width: 100%;
+}
